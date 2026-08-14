@@ -21,11 +21,12 @@ https://suryakumar-git654.github.io/Old-saloon-playlists/
 - 💈 Salon Classics category
 - ❤️ Romantic Songs category
 - 😢 Sad Songs category
-- 📱 Responsive design
+- 🎧 Spotify Salon Playlist
+- 🌐 GitHub Pages deployment
 
 ## 🎵 Songs
 
-The project currently contains four test audio files:
+The project currently contains four local MP3 audio files:
 
 1. Highway Memories
 2. Salon Classics
